@@ -1,4 +1,4 @@
-*Yer Notes 
+## Yer Notes ##
 * Configuration file for configuring nginx's reverse proxy
 * We will reach out to our server to serve us our web content
 
@@ -9,10 +9,10 @@
 *Or, if you don't want/need a background service you can just run:
 */usr/local/opt/nginx/bin/nginx -g daemon off;
 
-# NOTES FROM VIDEO #
+## NOTES FROM VIDEO ##
 
 
-# 1. We need an http context
+1. We need an http context
 http{
     server{ #Define a server, with directives to configure our nginx server
         listen 8080; #listens to port 8080
@@ -141,9 +141,4 @@ Then npm run start in terminal and should see port listen message
 
 - Remove root in nginx.config because once we hit localHost, we want no path since 
 we want to server our BE 
-
-
-NOTE: 
-
-
 
