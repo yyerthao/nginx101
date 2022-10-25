@@ -1,0 +1,26 @@
+#main{
+    color: rgba(113, 45, 45, 0.786);
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh; /* Settings body height */
+    display: flex; 
+    flex-direction: column;
+}
+
+body{
+    min-height: 100vh; /* Settings body height */
+    display: flex; 
+    flex-direction: column;
+}
+
+#background { 
+    background: url("background.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+footer{
+    margin-top: auto;
+    text-align: center;
+}
