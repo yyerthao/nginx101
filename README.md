@@ -1,13 +1,13 @@
-# Tools and Technologies #
+### Tools and Technologies ###
 * Docker
 * Nginx
 * Jenkinsfile, for now 
 
-# Will be adding #
+### Will be adding ###
 * Automation coverage :)
 * FE/BE
 
-# Hoping to better learn and add in the future #
+### Hoping to better learn and add in the future ###
 * Room for better FE development
 * Some BE development
 * Authentication 
