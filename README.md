@@ -1,7 +1,7 @@
 ### Tools and Technologies ###
 * Docker
 * Nginx
-* Jenkinsfile, for now 
+* Jenkins
 
 ### Will be adding ###
 * Automation coverage :)
@@ -12,4 +12,4 @@
 * Some BE development
 * Authentication 
 
-This is mere self-accountability to grow as an automation, which means learning the surrounding tools and technologies to better supplement my daily tasks to support a great place.
+This is mere self-accountability to grow as an automation engineer. 
